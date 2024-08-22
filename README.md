@@ -1,5 +1,6 @@
 # PLPBasicGitAssignment
-   Steps Follwed 
+   Steps Follwed:
+
 1.Creating a new repository in GitHub named PLPBasicGitAssignment
 
 2.Making it public
